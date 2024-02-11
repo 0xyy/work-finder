@@ -29,7 +29,7 @@ If you have any feedback, please reach out to me at tommyphan2004.tp@gmail.com o
 Clone the project
 
 ```bash
-  git clone https://github.com/0xyy/swift-shop.git
+  git clone https://github.com/0xyy/work-finder.git
 ```
 
 Go to the project directory and install dependencies
