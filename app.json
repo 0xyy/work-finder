@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "work-finder",
-    "slug": "work-finder"
+    "slug": "work-finder",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d06b408a-5423-4e24-b8c7-bea1b0051aa8"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d06b408a-5423-4e24-b8c7-bea1b0051aa8"
+    },
+    "android": {},
+    "ios": {}
   }
 }
