@@ -4,7 +4,7 @@
 
 App for finding perfect job in IT.
 
-This project is written to learn about React Native and how to create app using expo.
+This project is written to learn about React Native and how to create app using expo. Learned from JSmastery youtube channel.
 
 ## Demo
 
